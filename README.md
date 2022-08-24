@@ -12,7 +12,9 @@ Step by step article on [MEAN Stack Tutorial – Angular 7 CRUD App with Bootstr
 - Start the MEAN Stack backend
   - `cd backend` to enter into the backend folder
   - `nodemon server` to start the nodemon server
-  - `mongod` to start the mongoDB shell
+  - start the mongod server by using the following lines in a .bat file from your desktop
+  - cd C:\Program Files\MongoDB\Server\4.2\bin
+  -mongod --dbpath C:\data 
 ![c1](https://user-images.githubusercontent.com/91521374/186479099-089fdf88-97f5-469f-a24b-3afa9e54066d.PNG)
 
 ![c2](https://user-images.githubusercontent.com/91521374/186479305-ce8c4680-aaad-4fb1-8f9b-505bcd7d7ddb.PNG)
